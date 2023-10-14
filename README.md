@@ -3,7 +3,7 @@
 前言
 该树设计的初衷是为统一树的逻辑和样式。以一个树的渲染为基座，树的样式为插件的形式来呈现出不同的树
 
-<a href="http://www.one-ui.com/">详细文档地址</a>
+<a href="http://www.one-ui.com/" target="_blank">详细文档地址</a>
  
 安装
 
