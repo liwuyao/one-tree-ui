@@ -12,7 +12,8 @@
 html
 
 ```
-<div
+<div id="app"></div>
+```
 
 引用
 
